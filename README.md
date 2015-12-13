@@ -9,3 +9,6 @@ reading material from MIT course 6.S897: Large-Scale Systems https://people.csai
 
 ## fonder /sfu-cmpt-886/
 heavy on database part, but still good reading materials: https://courses.cs.sfu.ca/2015sp-cmpt-886-g1/pages/syllabus
+
+## folder /science/
+articles on AI and Machine Learning http://www.sciencemag.org/
