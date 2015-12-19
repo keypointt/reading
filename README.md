@@ -4,6 +4,9 @@ collection of read materials
 ## folder /spark/
 papers mainly from https://spark.apache.org/research.html
 
+## folder /googleResearch/
+google progress https://research.google.com/pubs/papers.html
+
 ## folder /AndrewNg/
 machine learning stuff http://www.andrewng.org/publications/
 
