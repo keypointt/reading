@@ -11,7 +11,7 @@ google progress https://research.google.com/pubs/papers.html
 https://research.facebook.com/
 
 ## folder /amplab/
-AMP labhttps://amplab.cs.berkeley.edu/publication
+AMP lab https://amplab.cs.berkeley.edu/publication
 
 ## folder /AndrewNg/
 machine learning stuff http://www.andrewng.org/publications/
