@@ -1,6 +1,8 @@
 # reading
 collection of read materials
 
+@note: if any of these materials violates your copy right or related right, please drop me a comment and I'll remove those at your request. thanks :)
+
 ## folder /spark/
 papers mainly from https://spark.apache.org/research.html
 
