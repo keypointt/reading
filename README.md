@@ -3,7 +3,10 @@ collection of read materials
 
 @note: if any of these materials violates your copy right or related right, please drop me a comment and I'll remove those at your request. thanks :)
 
-## blog
+## Apache Events
+https://events.apache.org/
+
+## Blogs
 * http://blog.idf.cn/2015/02/ctf-field-guide/
 
 ## CMU Ultra-Large-Scale Systems 
