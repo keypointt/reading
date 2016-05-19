@@ -13,16 +13,18 @@ https://events.apache.org/
 http://www.sei.cmu.edu/uls/start/publications/index.cfm
 
 ## folder /spark/
-papers mainly from https://spark.apache.org/research.html
+* papers mainly from https://spark.apache.org/research.html
+* summit https://spark-summit.org
 
 ## folder /hadoop/
-hadoop eco-system from https://hadoop.apache.org
+* hadoop eco-system from https://hadoop.apache.org
+* summit http://hadoopsummit.org
 
 ## folder /googleResearch/
 google progress https://research.google.com/pubs/papers.html
 
 ## folder /facebookResearch/
-https://research.facebook.com/
+https://research.facebook.com
 
 ## folder /amplab/
 AMP lab https://amplab.cs.berkeley.edu/publication
