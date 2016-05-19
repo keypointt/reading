@@ -15,6 +15,9 @@ http://www.sei.cmu.edu/uls/start/publications/index.cfm
 ## folder /spark/
 papers mainly from https://spark.apache.org/research.html
 
+## folder /hadoop/
+hadoop eco-system from https://hadoop.apache.org
+
 ## folder /googleResearch/
 google progress https://research.google.com/pubs/papers.html
 
