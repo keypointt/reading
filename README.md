@@ -9,9 +9,6 @@ https://events.apache.org/
 ## Blogs
 * http://blog.idf.cn/2015/02/ctf-field-guide/
 
-## CMU Ultra-Large-Scale Systems 
-http://www.sei.cmu.edu/uls/start/publications/index.cfm
-
 ## folder /spark/
 * papers mainly from https://spark.apache.org/research.html
 * summit https://spark-summit.org
