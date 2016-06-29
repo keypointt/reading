@@ -6,6 +6,9 @@ collection of read materials
 ## Apache Events
 https://events.apache.org/
 
+## Databricks Engineering Blog
+https://databricks.com/blog/category/engineering
+
 ## Blogs
 * http://blog.idf.cn/2015/02/ctf-field-guide/
 
