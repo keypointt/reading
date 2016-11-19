@@ -1,5 +1,5 @@
 # reading
-collection of reading materials
+collection of reading materials and courses
 
 @note: if any of these materials violates your copy right or related right, please drop me a comment and I'll remove those at your request. thanks :)
 
