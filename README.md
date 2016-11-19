@@ -1,5 +1,5 @@
 # reading
-collection of read materials
+collection of reading materials and courses
 
 @note: if any of these materials violates your copy right or related right, please drop me a comment and I'll remove those at your request. thanks :)
 
@@ -44,4 +44,4 @@ reading material from MIT course 6.S897: Large-Scale Systems https://people.csai
 heavy on database part, but still good reading materials: https://courses.cs.sfu.ca/2015sp-cmpt-886-g1/pages/syllabus
 
 ## folder /science/
-articles on AI and Machine Learning http://www.sciencemag.org/
+articles on AI and Machine Learning http://www.sciencemag.org
