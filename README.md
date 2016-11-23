@@ -9,6 +9,9 @@ https://events.apache.org/
 ## Databricks Engineering Blog
 https://databricks.com/blog/category/engineering
 
+## AWS re:Invent
+https://reinvent.awsevents.com/
+
 ## WooYun
 http://drops.wooyun.org/
 
