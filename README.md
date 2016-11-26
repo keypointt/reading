@@ -16,7 +16,7 @@ https://reinvent.awsevents.com/
 http://drops.wooyun.org/
 
 ## IDF
-* http://blog.idf.cn/2015/02/ctf-field-guide/
+http://blog.idf.cn/2015/02/ctf-field-guide/
 
 ## folder /spark/
 * papers mainly from https://spark.apache.org/research.html
