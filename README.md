@@ -12,6 +12,9 @@ https://databricks.com/blog/category/engineering
 ## LinkedIn Engineering Blog
 https://engineering.linkedin.com/blog
 
+## Uber Engineering Blog
+https://eng.uber.com/
+
 ## AWS re:Invent
 https://reinvent.awsevents.com/
 
