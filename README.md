@@ -9,6 +9,9 @@ https://events.apache.org/
 ## Databricks Engineering Blog
 https://databricks.com/blog/category/engineering
 
+## LinkedIn Engineering Blog
+https://engineering.linkedin.com/blog
+
 ## AWS re:Invent
 https://reinvent.awsevents.com/
 
@@ -16,7 +19,7 @@ https://reinvent.awsevents.com/
 http://drops.wooyun.org/
 
 ## IDF
-* http://blog.idf.cn/2015/02/ctf-field-guide/
+http://blog.idf.cn/2015/02/ctf-field-guide/
 
 ## folder /spark/
 * papers mainly from https://spark.apache.org/research.html
