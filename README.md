@@ -9,6 +9,9 @@ https://events.apache.org/
 ## Databricks Engineering Blog
 https://databricks.com/blog/category/engineering
 
+## LinkedIn Engineering Blog
+https://engineering.linkedin.com/blog
+
 ## AWS re:Invent
 https://reinvent.awsevents.com/
 
