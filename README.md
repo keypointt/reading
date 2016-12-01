@@ -15,6 +15,9 @@ https://engineering.linkedin.com/blog
 ## Uber Engineering Blog
 https://eng.uber.com/
 
+## Twitter Engineering Blog
+https://blog.twitter.com/engineering
+
 ## AWS re:Invent
 https://reinvent.awsevents.com/
 
