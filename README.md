@@ -9,6 +9,9 @@ https://events.apache.org/
 ## Databricks Engineering Blog
 https://databricks.com/blog/category/engineering
 
+## DeepMind
+https://deepmind.com/research/publications/
+
 ## LinkedIn Engineering Blog
 https://engineering.linkedin.com/blog
 
