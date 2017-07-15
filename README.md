@@ -21,6 +21,9 @@ https://eng.uber.com/
 ## Twitter Engineering Blog
 https://blog.twitter.com/engineering
 
+## PayPal Engineering Blog
+http://www.paypal-engineering.com/
+
 ## AWS re:Invent
 https://reinvent.awsevents.com/
 
