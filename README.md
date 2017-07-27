@@ -24,7 +24,9 @@ https://blog.twitter.com/engineering
 ## PayPal Engineering Blog
 http://www.paypal-engineering.com/
 
-## AWS re:Invent
+## AWS 
+https://aws.amazon.com/blogs/aws/
+### re:Invent
 https://reinvent.awsevents.com/
 
 ## WooYun
