@@ -32,6 +32,9 @@ https://reinvent.awsevents.com/
 ## WooYun
 http://drops.wooyun.org/
 
+## NetFlix
+https://medium.com/netflix-techblog
+
 ## IDF
 http://blog.idf.cn/2015/02/ctf-field-guide/
 
