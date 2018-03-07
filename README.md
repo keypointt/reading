@@ -58,6 +58,8 @@ AMP lab https://amplab.cs.berkeley.edu/publication
 ## folder /AndrewNg/
 machine learning stuff http://www.andrewng.org/publications/
 
+## Ml course
+https://developers.google.com/machine-learning/crash-course/
 
 # courses
 ## folder /6.S897/
