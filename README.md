@@ -70,3 +70,6 @@ heavy on database part, but still good reading materials: https://courses.cs.sfu
 
 ## folder /science/
 articles on AI and Machine Learning http://www.sciencemag.org
+
+## MxNet Deep Learning
+http://gluon.mxnet.io/
