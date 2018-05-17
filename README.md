@@ -58,6 +58,8 @@ AMP lab https://amplab.cs.berkeley.edu/publication
 ## folder /AndrewNg/
 machine learning stuff http://www.andrewng.org/publications/
 
+## Ml course
+https://developers.google.com/machine-learning/crash-course/
 
 # courses
 ## folder /6.S897/
@@ -68,3 +70,6 @@ heavy on database part, but still good reading materials: https://courses.cs.sfu
 
 ## folder /science/
 articles on AI and Machine Learning http://www.sciencemag.org
+
+## MxNet Deep Learning
+http://gluon.mxnet.io/
