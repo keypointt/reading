@@ -35,8 +35,9 @@ http://drops.wooyun.org/
 ## NetFlix
 https://medium.com/netflix-techblog
 
-## IDF
+## CTF
 http://blog.idf.cn/2015/02/ctf-field-guide/
+* https://alf.nu/alert1
 
 ## folder /spark/
 * papers mainly from https://spark.apache.org/research.html
