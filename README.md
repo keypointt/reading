@@ -35,6 +35,9 @@ http://drops.wooyun.org/
 ## NetFlix
 https://medium.com/netflix-techblog
 
+## Slack Engineering Blog
+https://slack.engineering/
+
 ## CTF
 http://blog.idf.cn/2015/02/ctf-field-guide/
 * https://alf.nu/alert1
