@@ -12,6 +12,9 @@ https://databricks.com/blog/category/engineering
 ## DeepMind
 https://deepmind.com/research/publications/
 
+## Amazon Science
+https://www.amazon.science/
+
 ## LinkedIn Engineering Blog
 https://engineering.linkedin.com/blog
 
